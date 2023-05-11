@@ -11,6 +11,9 @@ hr{
 .container{
   width: 90%;
 }
+.page-top{
+  margin-top: -50px;
+}
 
 .navbar {
   margin-bottom: 20px;
